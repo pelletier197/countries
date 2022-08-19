@@ -15,6 +15,7 @@ export default {
     options: {
       appLogo:
         "https://raw.githubusercontent.com/trevorblades/countries/main/logo.png",
+      siteRoot: "/countries",
     },
   },
 };
