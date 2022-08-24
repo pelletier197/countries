@@ -1,0 +1,1 @@
+import{a}from"./model-d9518f86.js";import{f as n}from"./pages-0e67eafe.js";import{e as f}from"./index-00481ced.js";const u=({params:e,url:t})=>{const o=a(e.query),r=n(t.pathname);if(!o||!r)throw f(404,`Query ${e.query} not found.`);return{field:o,page:r}},p=Object.freeze(Object.defineProperty({__proto__:null,load:u},Symbol.toStringTag,{value:"Module"}));export{p as _,u as l};
